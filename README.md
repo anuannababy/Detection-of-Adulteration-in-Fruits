@@ -1,5 +1,5 @@
 # Detection of Adulteration in fruits
-This project aims to develop a system for detecting adulteration in fruits (apple, banana and blueberries) and ripeness of fruits (apple, banana and blueberries) using machine learning techniques. Adulteration in fruits poses serious health risks and undermines consumer trust. By leveraging image processing and machine learning algorithms, this system aims to identify adulterated fruits accurately and efficiently.
+This project aims to develop a system for detecting adulteration in fruits (apple, banana and blueberry) and ripeness of fruits (apple, banana and blueberry) using machine learning techniques. Adulteration in fruits poses serious health risks and undermines consumer trust. By leveraging image processing and machine learning algorithms, this system aims to identify adulterated fruits accurately and efficiently.
 
 
 ### Resources Used
