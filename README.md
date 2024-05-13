@@ -1,5 +1,4 @@
-# *Fripen* Fruit Ripeness Detector
-
+# *Detection of Adulteration in fruits
 Built with a handy CV Web Scaffold (but the website almost completely written from scratch), this website holds a model which can detect fruit ripeness for apples (specifically ripe red apples vs green unripe apples), bananas, and blueberries. (Scaffold here: [Github](https://github.com/organization-x/omni/tree/omni_cv))
 
 
@@ -19,13 +18,9 @@ Click on "Click to test fruit" and upload an image of a banana, apple, or bluebe
 
 **Name** | **Role**
 ---- | ----
-**Hyrum Hansen** | **Leader (instructor)**
-Andrew Wood | Product Manager & Web Developer (frontend and backend)
-Reign OKeefe | Web Design & Web Developer (frontend)
-Dhairya Viramgama | Data Scientist & Web Developer (frontend)
-Aviel Wood | Data Scientist & Math/Statistician & Web Developer/Design (frontend)
-Nabiha Jawad | Math/Sattistician & Web Developer (frontend and backend)
-Rex Ouyang | Data Scientist & Web Developer (frontend)
+Anu Anna Baby | Team Member
+Amina Ashraf| Team Member
+Elsa Anju Siby| Team Membe
 
 *The roles mentioned above are the main ones each person did, however, everyone pretty much did a bit of every role.*
 
