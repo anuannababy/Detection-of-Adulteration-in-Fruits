@@ -1,17 +1,5 @@
 # *Detection of Adulteration in fruits
-Built with a handy CV Web Scaffold (but the website almost completely written from scratch), this website holds a model which can detect fruit ripeness for apples (specifically ripe red apples vs green unripe apples), bananas, and blueberries. (Scaffold here: [Github](https://github.com/organization-x/omni/tree/omni_cv))
-
-
-Made in 3 weeks from ground zero to ground hero 😆 @AICamp 
-
-### How To Use
-***
-
-Go to our website [here](https://cocalc19.ai-camp.dev/1f5857f2-6682-4940-8a34-bfeaf3edb175/port/12345/). 
-[![Picture of the home page](app/static/images1/frontpageofwebsite.png)](https://cocalc19.ai-camp.dev/1f5857f2-6682-4940-8a34-bfeaf3edb175/port/12345/)
-
-
-Click on "Click to test fruit" and upload an image of a banana, apple, or blueberry. Our pretrained model will then detect the fruit and it's level of ripeness.
+Built using Django and python this model detects adulteration in fruit and also fruit ripeness for apples (specifically ripe red apples vs green unripe apples), bananas, and blueberries. 
 
 ### Roles (About Us)
 ***
